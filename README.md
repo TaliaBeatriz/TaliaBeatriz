@@ -3,7 +3,7 @@
 **`Desenvolvedora`**
 
 Oi! Me chamo Talia Beatriz Corrêa, tenho 21 anos e sou natural de São Paulo. Concluí curso técnico em informática no Colégio Engnheiro Salvador Arena. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera, prestes a finalizar. 
-Sempre estive envolta a tenologia e pretSSendo estar por muitos anos a frente.
+Sempre estive envolta a tenologia e pretendo estar por muitos anos.
 Meu [Linkedin](https://www.linkedin.com/in/talia-beatriz-2243791a3/).
 
 
